@@ -4,7 +4,7 @@
   "contributors": [
     "Joshua F. Rountree <joshua@swodev.com>"
   ],
-  "description": "Clones the latest licode repo and compiles erizoClient javascripts for bower.",
+  "description": "Licode Erizo Client Javascript Library for Bower.",
   "moduleType": [
     "globals"
   ],
@@ -14,7 +14,7 @@
     "client"
   ],
   "license": "MIT",
-  "homepage": "http://lynckia.com/licode",
+  "homepage": "https://github.com/joshuairl/erizo-client",
   "ignore": [
     "**/.*",
     "node_modules",
