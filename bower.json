@@ -1,9 +1,14 @@
 {
   "name": "erizo-client",
   "version": "0.1.0",
-  "contributors": [
+  "authors": [
+    "Lynkia",
     "Joshua F. Rountree <joshua@swodev.com>"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/joshuairl/erizo-client.git"
+  },
   "description": "Licode Erizo Client Javascript Library for Bower.",
   "moduleType": [
     "globals"

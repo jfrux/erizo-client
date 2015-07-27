@@ -4,6 +4,12 @@
 bower install erizo-client
 ```
 
+## Different Distribution Files
+In the `dist` directory there are several files.
+`erizo.all.js` is the uncompressed / unminified version that includes vendor files (socket.io)
+`erizo.js` is the uncompressed / unminified version of the erizo client. (requires socket.io to work)
+
+
 ## Development
 Only needs done if there are changes to the licode erizoClient repo.
 ```
